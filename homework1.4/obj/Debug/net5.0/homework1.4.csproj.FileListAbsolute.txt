@@ -1,0 +1,15 @@
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/homework1.4.deps.json
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/homework1.4.runtimeconfig.json
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/homework1.4.runtimeconfig.dev.json
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/homework1.4.dll
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/ref/homework1.4.dll
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/bin/Debug/net5.0/homework1.4.pdb
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.csproj.AssemblyReference.cache
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.AssemblyInfoInputs.cache
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.AssemblyInfo.cs
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.csproj.CoreCompileInputs.cache
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.dll
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/ref/homework1.4.dll
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.pdb
+/Users/tofiqnasibli/Projects/working/homework1.1/homework1.4/obj/Debug/net5.0/homework1.4.genruntimeconfig.cache
